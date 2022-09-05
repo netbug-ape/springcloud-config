@@ -1,2 +1,1 @@
-
-config-prod.yml
+config: config-prod.yml
